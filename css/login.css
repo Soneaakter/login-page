@@ -1,0 +1,47 @@
+body{
+    background-color:linen;
+}
+.book{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+     background-color: dimgray;
+    padding: 40px;
+    width: 50%;
+    margin: auto;
+}
+.book h1{
+       color:white;
+    font-size: 60px;
+}
+.book form{
+    text-align:left;
+    }
+    #ball{
+        font-size:30px;
+       }
+      .book form input{
+     background-color:white ;
+     font-size:20px;
+     color: brown;
+    width: 90%;
+    margin: 8px;
+    padding: 10px;
+    border:none;
+    }
+#pencil{
+    width: 50%;
+     background-color: cornflowerblue;
+     font-size:  30px;
+   font-family: fantasy;
+   font-style: oblique;
+}
+.pen{
+   text-align:end;
+   font-size: larger;
+   }
+.pen a{
+    color: ghostwhite;
+    }
+    .check{
+        font-size:30px;
+        color: black;
+}
