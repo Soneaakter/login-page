@@ -35,5 +35,9 @@ body{
 .open label{
     font-size: 20px;
    text-align:right;
-
 }
+.secend {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: brown;
+ }
